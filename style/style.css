@@ -1,0 +1,13 @@
+body {
+  background: #f4f4f4;
+}
+
+h1,
+p,
+.page-links {
+  text-align: center;
+}
+
+a {
+  margin: 0 10px;
+}
