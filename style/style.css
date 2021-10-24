@@ -9,5 +9,28 @@ p,
 }
 
 a {
+  color: black;
+
+  border-radius: 5px;
   margin: 0 10px;
+  font-weight: bold;
+  padding: 5px 8px;
+}
+
+a:hover {
+  color: white;
+  background: #666;
+  border-radius: 5px;
+  padding: 5px;
+  text-decoration: none;
+}
+
+.page-links {
+  margin-bottom: 30px;
+}
+img {
+  border-radius: 8px;
+  display: block;
+  margin: 30px auto;
+  max-width: 70%;
 }
